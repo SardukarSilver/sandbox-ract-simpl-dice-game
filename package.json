@@ -1,6 +1,6 @@
 {
-  "name": "sandbox-ract-simpl-dice-game",
   "homepage": "https://sardukarsilver.github.io/sandbox-ract-simpl-dice-game/",
+  "name": "sandbox-ract-simpl-dice-game",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
